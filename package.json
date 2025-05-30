@@ -1,0 +1,10 @@
+{
+  "name": "price-scout",
+  "version": "1.0.1",
+  "description": "Smart price range search for real estate and product listings.",
+  "main": "index.js",
+  "keywords": ["price", "range", "search", "real estate", "ecommerce"],
+  "author": "Your Name",
+  "license": "MIT",
+  "type": "commonjs"
+}
