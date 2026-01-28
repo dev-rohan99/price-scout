@@ -1,10 +1,25 @@
 {
   "name": "price-scout",
-  "version": "1.0.1",
-  "description": "Smart price range search for real estate and product listings.",
+  "version": "1.1.0",
+  "description": "Smart price range search with flexible filtering and sorting for real estate and products.",
   "main": "index.js",
-  "keywords": ["price", "range", "search", "real estate", "ecommerce"],
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "keywords": [
+    "price",
+    "range",
+    "search",
+    "real estate",
+    "ecommerce",
+    "filter",
+    "sort",
+    "finder"
+  ],
   "author": "Your Name",
   "license": "MIT",
-  "type": "commonjs"
+  "devDependencies": {
+    "vitest": "^3.0.0"
+  }
 }
